@@ -1,0 +1,40 @@
+/* Add some padding and a border to the form */
+form {
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+/* Style the label and input elements */
+label, input {
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* Style the label element */
+label {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+/* Style the input element */
+input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+/* Add some hover effect to the submit button */
+input[type="submit"] {
+  cursor: pointer;
+}
+input[type="submit"]:hover {
+  background-color: #ddd;
+}
+
+/* Add some consistent margin and font size to the links */
+a {
+  margin: 20px;
+  font-size: 14px;
+}

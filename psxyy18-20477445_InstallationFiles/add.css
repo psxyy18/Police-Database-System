@@ -1,0 +1,50 @@
+/* Add a margin and padding to the body element */
+body {
+  margin: 20px;
+  padding: 20px;
+}
+
+/* Set the font and size for the entire document */
+body, input, label {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Set the font size for the heading */
+h1 {
+  font-size: 24px;
+}
+
+/* Add some spacing between the form elements */
+form > * {
+  margin-bottom: 10px;
+}
+
+/* Style the submit button */
+input[type="submit"] {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+/* Add a hover effect to the submit button */
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+/* Style the search results */
+.record {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+/* Style the search results headings */
+.record p {
+  font-weight: bold;
+}

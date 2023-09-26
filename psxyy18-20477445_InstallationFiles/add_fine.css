@@ -1,0 +1,45 @@
+/* apply a consistent font and size to all elements */
+* {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* add some padding and a border to the form elements */
+form label, form input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* add some margin to the form labels */
+form label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+/* center the form and add some padding */
+form {
+  width: 500px;
+  margin: 0 auto;
+  padding: 32px;
+  background-color: #f7f7f7;
+}
+
+/* style the submit button */
+form input[type="submit"] {
+  background-color: #4caf50;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* style the audit trail heading */
+h1 {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+/* add some margin to the audit trail entries */
+p {
+  margin: 16px 0;
+}

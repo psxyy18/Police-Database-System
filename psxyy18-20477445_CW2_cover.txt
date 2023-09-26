@@ -1,0 +1,57 @@
+Name: Yiming Yuan
+Student ID: 20477445
+Username: psxyy18
+URL of working system: http://mersey.cs.nott.ac.uk/~psxyy18/test/login.php
+
+List of files submitted for this coursework:
+
+DIS-COMP4039-CW2-psxyy18-20477445/ [dir]
+├── psxyy18-20477445_CW2_cover.txt
+├── psxyy18-20477445_InstallationFiles/ [dir]
+│ ├── database.sql
+│ ├── add_fine.php
+│ ├── db.inc.php
+│ ├──add_person.php
+│ ├──add_vehicle.php
+│ ├──addofficer.php
+│ ├──admin.php
+│ ├──audit.php
+│ ├──dashboard.php
+│ ├──edit_incident.php
+│ ├──edit_person.php
+│ ├──login.php
+│ ├──logout.php
+│ ├──offence_description.php
+│ ├──reset_password.php
+│ ├──retrieve_incident1.php
+│ ├──search.php
+│ ├──search_vehicle.php
+│ ├──submit_report.php
+│ ├──update_incident.php
+│ ├──update_incident.php
+│ ├──update_person.php
+│ ├──add_fine.css
+│ ├──add_officer.css
+│ ├──add_person.css
+│ ├──add.css
+│ ├──admin.css
+│ ├──audit.css
+│ ├──dashboard.css
+│ ├──edit_incident.css
+│ ├──edit_person.css
+│ ├──login.css
+│ ├──search_vehicle.css
+│ ├──retrieve_incident.css
+│ ├──reset_password.css
+│ └──submit_report.css
+├── psxyy18_Technical.pdf
+└── psxyy18_UserManual.pdf
+
+
+Reference:
+
+Resources used that are not solely my own work:
+
+Some code adapted from 'https://www.w3schools.com/' for implementing specific features such as form validation.Also I learned how to write css from w3school.
+
+All resources used that are not solely my own work are properly credited and cited within the code and documentation.
